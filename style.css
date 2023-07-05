@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+* {
+  text-align:center;
+}
+ nav a {
+  padding:10px;
+  background-color: gray;
+ }
+
+ figcaption {
+  font-size: small;
+ }
+
+ section#featured-property p {
+  width: 800px;
+  text-align: center;
+  padding:10px;
+  margin:auto;
+
+ }
+
+ div {
+  float:left;
+  
+  background-color: red;
+  width:25%;
+ }
